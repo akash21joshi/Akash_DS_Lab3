@@ -1,5 +1,5 @@
 package com.greatlearning.BalancingBrackets;
-
+print("hi")
 import java.util.*;
 
 public class BalancingBrackets {
